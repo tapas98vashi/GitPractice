@@ -1,7 +1,16 @@
+Here is a brand new first line !
 Hello Tapas !
 Hello World
 
 Software Developer
 
+<<<<<<< HEAD
 Change for feature branch
 Blah Blah Blah
+=======
+
+
+
+
+Chnage for feature branch
+>>>>>>> feature
